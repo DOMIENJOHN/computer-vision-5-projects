@@ -1,0 +1,81 @@
+{
+  "checkpoint": "/home/domien/CV_Projects/computer-vision-5-projects/01_explainable_ai/results/cifar10_resnet18.pth",
+  "test_images": 10000,
+  "device": "cuda",
+  "accuracy": 0.8342,
+  "classification_report": {
+    "airplane": {
+      "precision": 0.8663157894736843,
+      "recall": 0.823,
+      "f1-score": 0.8441025641025641,
+      "support": 1000.0
+    },
+    "automobile": {
+      "precision": 0.9837209302325581,
+      "recall": 0.846,
+      "f1-score": 0.9096774193548387,
+      "support": 1000.0
+    },
+    "bird": {
+      "precision": 0.7192825112107624,
+      "recall": 0.802,
+      "f1-score": 0.7583924349881797,
+      "support": 1000.0
+    },
+    "cat": {
+      "precision": 0.7604049493813273,
+      "recall": 0.676,
+      "f1-score": 0.7157226045526733,
+      "support": 1000.0
+    },
+    "deer": {
+      "precision": 0.7617391304347826,
+      "recall": 0.876,
+      "f1-score": 0.8148837209302325,
+      "support": 1000.0
+    },
+    "dog": {
+      "precision": 0.896700143472023,
+      "recall": 0.625,
+      "f1-score": 0.7365939893930465,
+      "support": 1000.0
+    },
+    "frog": {
+      "precision": 0.7871794871794872,
+      "recall": 0.921,
+      "f1-score": 0.8488479262672811,
+      "support": 1000.0
+    },
+    "horse": {
+      "precision": 0.8774703557312253,
+      "recall": 0.888,
+      "f1-score": 0.882703777335984,
+      "support": 1000.0
+    },
+    "ship": {
+      "precision": 0.8943862987630827,
+      "recall": 0.94,
+      "f1-score": 0.916626036079961,
+      "support": 1000.0
+    },
+    "truck": {
+      "precision": 0.8544303797468354,
+      "recall": 0.945,
+      "f1-score": 0.8974358974358975,
+      "support": 1000.0
+    },
+    "accuracy": 0.8342,
+    "macro avg": {
+      "precision": 0.8401629975625768,
+      "recall": 0.8342,
+      "f1-score": 0.8324986370440659,
+      "support": 10000.0
+    },
+    "weighted avg": {
+      "precision": 0.8401629975625768,
+      "recall": 0.8342,
+      "f1-score": 0.8324986370440658,
+      "support": 10000.0
+    }
+  }
+}

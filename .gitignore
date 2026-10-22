@@ -12,3 +12,4 @@ wandb/
 *.pth
 *.onnx
 .DS_Store
+01_explainable_ai/dataset/cifar10/
