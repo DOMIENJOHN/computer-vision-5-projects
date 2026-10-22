@@ -1,0 +1,10 @@
+
+# Downloaded dataset
+dataset/source/
+
+# Generated results and trained models
+results/
+
+# Python cache
+__pycache__/
+*.py[cod]
