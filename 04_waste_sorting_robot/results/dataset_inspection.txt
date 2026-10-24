@@ -1,0 +1,39 @@
+Dataset: /home/domien/Documents/archive/Dataset
+
+=== TRAIN ===
+biodegradable: 12698 images
+non_biodegradable: 1467 images
+
+=== VAL ===
+biodegradable: 894 images
+non_biodegradable: 307 images
+
+=== SUMMARY ===
+Training images: 14165
+Validation images: 1201
+Exact-content hashes shared between train and val: 111
+Unreadable/corrupt images: 0
+
+WARNING: exact duplicate image contents found across splits.
+Train: dataset/waste_data/train/biodegradable/leaf_waste/00000103.jpg
+Val:   dataset/waste_data/val/biodegradable/leaf_waste/00000088.jpg
+Train: dataset/waste_data/train/biodegradable/paper_waste/paper547.jpg
+Val:   dataset/waste_data/val/biodegradable/paper_waste/paper547.jpg
+Train: dataset/waste_data/train/biodegradable/leaf_waste/62e81304-8d1b-46ed-a79a-52cf53a63919___RS_Early.B 7363.JPG
+Val:   dataset/waste_data/val/biodegradable/leaf_waste/62e81304-8d1b-46ed-a79a-52cf53a63919___RS_Early.B 7363.JPG
+Train: dataset/waste_data/train/biodegradable/leaf_waste/59f90f4b-add8-4f50-af1f-052b35aa99e1___RS_Early.B 9001.JPG
+Val:   dataset/waste_data/val/biodegradable/leaf_waste/59f90f4b-add8-4f50-af1f-052b35aa99e1___RS_Early.B 9001.JPG
+Train: dataset/waste_data/train/biodegradable/paper_waste/paper523.jpg
+Val:   dataset/waste_data/val/biodegradable/paper_waste/paper523.jpg
+Train: dataset/waste_data/train/biodegradable/leaf_waste/65b66b8f-2117-4876-85bd-23941349231f___RS_Early.B 7219.JPG
+Val:   dataset/waste_data/val/biodegradable/leaf_waste/65b66b8f-2117-4876-85bd-23941349231f___RS_Early.B 7219.JPG
+Train: dataset/waste_data/train/biodegradable/paper_waste/paper526.jpg
+Val:   dataset/waste_data/val/biodegradable/paper_waste/paper526.jpg
+Train: dataset/waste_data/train/biodegradable/paper_waste/paper534.jpg
+Val:   dataset/waste_data/val/biodegradable/paper_waste/paper534.jpg
+Train: dataset/waste_data/train/biodegradable/food_waste/2_1202.jpg
+Val:   dataset/waste_data/val/biodegradable/food_waste/2_244.jpg
+Train: dataset/waste_data/train/biodegradable/leaf_waste/68f056c9-4989-4809-b597-3739ff66afc3___RS_Early.B 8748.JPG
+Val:   dataset/waste_data/val/biodegradable/leaf_waste/68f056c9-4989-4809-b597-3739ff66afc3___RS_Early.B 8748.JPG
+
+Check complete. No dataset files were changed.

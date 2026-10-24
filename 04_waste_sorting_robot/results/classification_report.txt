@@ -1,0 +1,16 @@
+Checkpoint: best_model.pth
+Best epoch: 8
+Validation macro-F1 recorded in checkpoint: 0.9681898742643125
+Test images: 1523
+Test accuracy: 0.9856
+Test macro-F1: 0.9648
+
+                   precision    recall  f1-score   support
+
+    biodegradable     0.9918    0.9918    0.9918      1346
+non_biodegradable     0.9379    0.9379    0.9379       177
+
+         accuracy                         0.9856      1523
+        macro avg     0.9648    0.9648    0.9648      1523
+     weighted avg     0.9856    0.9856    0.9856      1523
+

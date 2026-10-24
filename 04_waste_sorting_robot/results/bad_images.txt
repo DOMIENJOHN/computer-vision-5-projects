@@ -1,0 +1,2 @@
+/home/domien/CV_Projects/computer-vision-5-projects/04_waste_sorting_robot/dataset/waste_data/val/non_biodegradable/ewaste/00000261.jpg	OSError('image file is truncated (19 bytes not processed)')
+/home/domien/CV_Projects/computer-vision-5-projects/04_waste_sorting_robot/dataset/waste_data/train/non_biodegradable/ewaste/00000006.jpg	OSError('image file is truncated (4 bytes not processed)')

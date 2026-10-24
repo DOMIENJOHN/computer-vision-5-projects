@@ -1,0 +1,20 @@
+Device: cuda
+Checkpoint epoch: 8
+Test images: 1523
+Test accuracy: 98.5555%
+Test macro-F1: 0.9648
+
+Classification report:
+
+                   precision    recall  f1-score   support
+
+    biodegradable     0.9918    0.9918    0.9918      1346
+non_biodegradable     0.9379    0.9379    0.9379       177
+
+         accuracy                         0.9856      1523
+        macro avg     0.9648    0.9648    0.9648      1523
+     weighted avg     0.9856    0.9856    0.9856      1523
+
+Report: /home/domien/CV_Projects/computer-vision-5-projects/04_waste_sorting_robot/results/classification_report.txt
+Confusion matrix: /home/domien/CV_Projects/computer-vision-5-projects/04_waste_sorting_robot/results/confusion_matrix.png
+Predictions: /home/domien/CV_Projects/computer-vision-5-projects/04_waste_sorting_robot/results/test_predictions.csv
